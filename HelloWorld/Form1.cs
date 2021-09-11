@@ -20,7 +20,7 @@ namespace HelloWorld
         private void btnHello_Click(object sender, EventArgs e)
         {
             //lblHello.Text = "Hello World!";
-            MessageBox.Show("Hello World", "Fist Project", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+            MessageBox.Show("Hello World", "First Project", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
         }
     }
 }
